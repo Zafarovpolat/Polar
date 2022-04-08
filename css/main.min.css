@@ -93,6 +93,8 @@ section {
 }
 
 .header {
+    position: sticky;
+    top: 0px;
     background-color: #f2cedac7
 }
 
