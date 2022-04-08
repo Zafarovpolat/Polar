@@ -96,7 +96,7 @@ section {
     background-color: #F5D9E2;
     position: sticky;
     top: 0px;
-    background-color: #f2cedac7
+    z-index: 1;
 }
 
 .polar-button {
